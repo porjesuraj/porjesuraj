@@ -83,12 +83,12 @@ I'm a Full Stack .NET Developer with 4 years of experience. I’m passionate abo
       </tr>    
       <tr>
         <td>Ultimate ASP.NET Core Web API Development Guide</td>
-        <td><a href="ude.my/UC-86995146-e0c8-4027-8c84-5c0d7e515d67">View Credential</a></td>
+        <td><a href="https://www.udemy.com/certificate/UC-86995146-e0c8-4027-8c84-5c0d7e515d67">View Credential</a></td>
         <td></td>
       </tr>
        <tr>
         <td>Complete ASP.NET Core and Entity Framework Development</td>
-        <td><a href="ude.my/UC-f3c03469-cb15-4454-9444-1f9c8a752423">View Credential</a></td>
+        <td><a href="https://www.udemy.com/certificate/UC-f3c03469-cb15-4454-9444-1f9c8a752423">View Credential</a></td>
         <td></td>
       </tr>
     </tbody>
