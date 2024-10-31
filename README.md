@@ -1,21 +1,23 @@
-<img align="left" src="frame-image.png" width="256">
-<h2> Namaste 🙏, I'm <a href='https://github.com/porjesuraj'>Suraj Valu Porje</a> </h2>
+<img src="frame-image.png" width="256" align="center">
+
+<h2 align="center">Namaste 🙏, I'm <a href='https://github.com/porjesuraj'>Suraj Valu Porje</a></h2>
 
 <p align='justify'>
-I'm a Full Stack .NET Developer with 4 years of experience. I’m passionate about building scalable, cloud-deployed applications using ASP.NET and React. I have worked on Cross platoform Mobile development using Xamarin and MAUI. Currently, I’m exploring game development with Unity. My journey includes working on diverse projects from cloud-based systems to user-centric web applications. I believe in continuous learning and expanding my skill set. Feel free to browse through my repositories - I hope you find something useful! 
-<br></br>
-<img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
+I'm a Full Stack .NET Developer with 4 years of experience. I’m passionate about building scalable, cloud-deployed applications using ASP.NET and React. I have worked on cross-platform mobile development using Xamarin and MAUI. Currently, I’m exploring game development with Unity. My journey includes working on diverse projects from cloud-based systems to user-centric web applications. I believe in continuous learning and expanding my skill set. Feel free to browse through my repositories - I hope you find something useful!
+<br>
+<img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" alt="Made with Love in India" align="right">
 </p>
 
 ---
 
 ### 🚀 Skills & Tools
-<table align="center">
+<div align="center">
+  <table>
     <thead>
-        <tr>
-          <th>Category</th>
-          <th>Skills</th>
-        </tr>
+      <tr>
+        <th>Category</th>
+        <th>Skills</th>
+      </tr>
     </thead>
     <tbody>
       <tr>
@@ -23,7 +25,7 @@ I'm a Full Stack .NET Developer with 4 years of experience. I’m passionate abo
         <td>
           <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />     
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         </td>
       </tr>
       <tr>
@@ -62,72 +64,73 @@ I'm a Full Stack .NET Developer with 4 years of experience. I’m passionate abo
         </td>
       </tr>
     </tbody>
-</table>
+  </table>
+</div>
 
 ---
 
 ### 🎓 Certifications
-<table align="center">
+<div align="center">
+  <table>
     <thead>
-        <tr>
-          <th>Certification</th>
-          <th>URL</th>
-          <th>Badge</th>
-        </tr>
+      <tr>
+        <th>Certification</th>
+        <th>URL</th>
+      </tr>
     </thead>
     <tbody>
       <tr>
         <td>Complete C# Masterclass</td>
         <td><a href="https://www.udemy.com/certificate/UC-5ad8a284-9c51-43bb-9c28-42d321195921/">View Credential</a></td>
-        <td></td>
       </tr>    
       <tr>
         <td>Ultimate ASP.NET Core Web API Development Guide</td>
         <td><a href="https://www.udemy.com/certificate/UC-86995146-e0c8-4027-8c84-5c0d7e515d67">View Credential</a></td>
-        <td></td>
       </tr>
-       <tr>
+      <tr>
         <td>Complete ASP.NET Core and Entity Framework Development</td>
         <td><a href="https://www.udemy.com/certificate/UC-f3c03469-cb15-4454-9444-1f9c8a752423">View Credential</a></td>
-        <td></td>
       </tr>
     </tbody>
-</table>
+  </table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-<table align="center">
+<div align="center">
+  <table>
     <thead>
-        <tr>
-          <th>GitHub Stats</th>
-          <th>Top Languages</th>
-        </tr>
+      <tr>
+        <th>GitHub Stats</th>
+        <th>Top Languages</th>
+      </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <a href="https://github.com/porjesuraj">
-            <img src="https://github-readme-stats.vercel.app/api?username=porjesuraj&show_icons=true&theme=dark">
+            <img src="https://github-readme-stats.vercel.app/api?username=porjesuraj&show_icons=true&theme=dark" alt="GitHub Stats">
           </a>
         </td>
         <td>
           <a href="https://github.com/porjesuraj">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porjesuraj&layout=compact&theme=dark">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porjesuraj&layout=compact&theme=dark" alt="Top Languages">
           </a>
         </td>
       </tr>
     </tbody>
-</table>
+  </table>
+</div>
 
 ---
 
 ### ✉️ Connect with Me
-<p align="center">
+<div align="center">
   <a href="https://in.linkedin.com/in/surajporje">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:porjesuraj5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
